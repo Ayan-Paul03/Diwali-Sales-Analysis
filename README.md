@@ -6,6 +6,7 @@ An Exploratory Data Analysis (EDA) project in Python focused on evaluating custo
 
 ## Dataset Architecture
 Primary Features: User_ID, Cust_name, Product_ID, Gender, Age Group, Age, Marital_Status, State, Zone, Occupation, Product_Category, Orders, and Amount.
+
 Dataset Size: Contains over 11,000 transaction records capturing retail activity during the peak festival window.
 
 
