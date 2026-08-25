@@ -1,8 +1,8 @@
-# 🪔 Diwali Sales Analysis
+# 🪔 Sales Analysis
 
 ## 📌 Project Overview
 
-**Diwali Sales Analysis** is a data analytics project focused on understanding customer purchasing behavior and identifying important sales trends during the Diwali festival season.
+**Sales Analysis** is a data analytics project focused on understanding customer purchasing behavior and identifying important sales trends during the Diwali festival season.
 
 The project uses **Exploratory Data Analysis (EDA)** to analyze customer demographics, geographical regions, occupations, purchasing behavior, and product categories. The insights generated from the analysis can help businesses improve **targeted marketing strategies, customer engagement, and inventory management**.
 
@@ -117,36 +117,6 @@ Diwali-Sales-Analysis/
 └── images/
     └── visualizations/
 ```
-
----
-
-## 🚀 How to Run the Project
-
-1. Clone this repository:
-
-```bash
-git clone <your-repository-link>
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd Diwali-Sales-Analysis
-```
-
-3. Install the required libraries:
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-4. Open the Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-5. Run the **Diwali Sales Analysis.ipynb** notebook.
 
 ---
 
